@@ -1,6 +1,6 @@
 # Recipe Sharing Platform
 
-A platform where users can discover, share, and manage recipes.
+A platform where users can discover, share and manage recipes.
 
 ## Team Members
 
